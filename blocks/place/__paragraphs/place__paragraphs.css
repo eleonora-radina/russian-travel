@@ -1,0 +1,18 @@
+.place__paragraphs {
+  grid-area: paragraph;  
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+@media (max-width: 460px) {
+  .place__paragraphs {
+    padding: 0 25px;
+  }
+}
+
+@media (max-width: 425px) {
+  .place__paragraphs {
+    padding: 0 16px;
+  }
+}
