@@ -25,4 +25,4 @@
 ------
 
 ## GitHub Pages
-[Ссылка на проект](http://example.com/ "Ссылка тут")
+[Ссылка на проект](https://eleonora-radina.github.io/russian-travel/ "Ссылка на проект тут")
