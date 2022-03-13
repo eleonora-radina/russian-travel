@@ -5,3 +5,9 @@
   object-fit: cover;
   object-position: center;
 }
+
+@media (max-width: 630px) {
+  .place__image {
+    max-width: 630px;
+  }  
+}

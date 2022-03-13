@@ -36,3 +36,5 @@
 @import url('../blocks/place/__url-heading/place__url-heading.css');
 @import url('../blocks/place/__website-zone/place__website-zone.css');
 @import url('../blocks/places/places.css');
+@import url('../blocks/lead/__image-zone/lead__image-zone.css');
+@import url('../blocks/intro/__number/intro__number.css');

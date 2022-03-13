@@ -9,21 +9,3 @@
 .place__link:hover {
   opacity: 0.8;
 }
-  
-@media (max-width: 630px) {
-  .place__link {
-    font-size: 15px;
-  }
-}
-
-@media (max-width: 550px) {
-  .place__link {
-    font-size: 13px;
-  }
-}
-
-@media (max-width: 460px) {
-  .place__link {
-    font-size: 18px;
-  }
-}

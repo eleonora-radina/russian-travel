@@ -1,16 +1,22 @@
 .lead {
-  margin: 0;
-  padding: 56px 148px 0;
+  margin: 56px auto 0;
+  max-width: 984px;
+}
+
+@media (max-width: 1140px) {
+  .place {
+    max-width: 924px;
+  }
 }
 
 @media (max-width: 1024px) {
   .lead {
-    padding: 48px 48px 0;
+    margin: 48px 48px 0;
   }
 }
 
 @media (max-width: 768px) {
   .lead {
-    padding: 48px 0 0;
+    margin: 48px 0 0;
   }
 }
